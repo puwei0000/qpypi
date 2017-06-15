@@ -2,7 +2,7 @@
     {
         "src":"http://kivy.org",
         "rdate":"2017-06-15",
-        "link":"http://libs.qpy.io/2x/kivy/kivy-1.9.1.zip",
+        "link":"http://dl.qpy.io/2x/kivy/kivy-1.9.1.zip",
         "description":"kivy 1.9.0 prebuild for qpython",
         "title":"kivy",
         "ver":"1",
@@ -14,7 +14,7 @@
     {
         "src":"http://kivy.org",
         "rdate":"2017-06-15",
-        "link":"http://libs.qpy.io/2x/kivy/jnius.zip",
+        "link":"http://dl.qpy.io/2x/kivy/jnius.zip",
         "description":"jnius 1.1-dev prebuild for qpython",
         "title":"jnius",
         "ver":"1",
