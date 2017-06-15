@@ -3,24 +3,12 @@
         "src":"http://kivy.org",
         "rdate":"2017-06-15",
         "link":"http://dl.qpy.io/2x/kivy/kivy-1.9.1.zip",
-        "description":"kivy 1.9.0 prebuild for qpython",
+        "description":"kivy 1.9.1 prebuild for qpython",
         "title":"kivy",
         "ver":"1",
         "cat":"dev",
         "md5sum":"",
         "smodule":"kivy",
-        "icon":""
-    },
-    {
-        "src":"http://kivy.org",
-        "rdate":"2017-06-15",
-        "link":"http://dl.qpy.io/2x/kivy/jnius.zip",
-        "description":"jnius 1.1-dev prebuild for qpython",
-        "title":"jnius",
-        "ver":"1",
-        "cat":"dev",
-        "md5sum":"",
-        "smodule":"jnius",
         "icon":""
     }
 ]
