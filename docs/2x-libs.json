@@ -3,12 +3,11 @@
         "src":"http://kivy.org",
         "rdate":"2017-06-15",
         "link":"http://dl.qpy.io/2x/kivy/kivy-1.9.1.zip",
+        "smodule":"kivy",
         "description":"kivy 1.9.1 prebuild for qpython",
         "title":"kivy",
-        "ver":"1",
-        "cat":"dev",
-        "md5sum":"",
-        "smodule":"kivy",
-        "icon":""
+        "ver":"1.9.1",
+        "downloads": 10009,
+        "cat":"lib"
     }
 ]

@@ -8,7 +8,7 @@
         "title":"Numpy",
         "ver":"1.9.2",
         "downloads": 20229,
-        "cat":"local"
+        "cat":"qpypi"
     },
     {
         "src":"http://qpypi.qpython.org/pyshop/package/plyer",
@@ -19,6 +19,6 @@
         "title":"Plyer",
         "ver":"1.2.1",
         "downloads": 13643,
-        "cat":"local"
+        "cat":"qpypi"
     }
 ]
