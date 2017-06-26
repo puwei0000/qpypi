@@ -3,7 +3,7 @@
     {
         "src":"http://kivy.org",
         "rdate":"2017-06-01",
-        "link":"http://pip:qpython@qpypi.qpython.org:11000/simple",
+        "link":"http://qpypi.qpython.org:11000/simple",
         "smodule":"kivy-qpython",
         "description":"Open source Python library for rapid development of applications that make use of innovative user interfaces",
         "title":"Kivy",
@@ -14,7 +14,7 @@
     {
         "src":"http://qpypi.qpython.org/pyshop/package/numpy",
         "rdate":"2017-06-01",
-        "link":"http://pip:qpython@qpypi.qpython.org:11000/simple",
+        "link":"http://qpypi.qpython.org:11000/simple",
         "smodule":"numpy-qpython",
         "description":"numPy is the fundamental package needed for scientific computing with Python",
         "title":"Numpy",
