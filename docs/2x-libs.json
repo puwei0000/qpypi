@@ -1,13 +1,13 @@
 [
     {
-        "src":"http://kivy.org",
+        "src":"http://qpython.org",
         "rdate":"2017-06-15",
-        "link":"http://dl.qpy.io/2x/kivy/kivy-1.9.1.zip",
-        "smodule":"kivy",
-        "description":"kivy 1.9.1 prebuild for qpython",
-        "title":"kivy",
-        "ver":"1.9.1",
-        "downloads": 10009,
-        "cat":"lib"
+        "link":"http://dl.qpy.io/2x/scripts/qedit4web.py",
+        "smodule":"qedit4web.py",
+        "description":"Qeditor web for qpython",
+        "title":"qedit4web",
+        "ver":"0.9.0",
+        "downloads": 100,
+        "cat":"script"
     }
 ]
