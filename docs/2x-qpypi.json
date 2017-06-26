@@ -1,24 +1,25 @@
 [
+
+    {
+        "src":"http://kivy.org",
+        "rdate":"2017-06-01",
+        "link":"http://pip:qpython@qpypi.qpython.org:11000/simple",
+        "smodule":"kivy-qpython",
+        "description":"Open source Python library for rapid development of applications that make use of innovative user interfaces",
+        "title":"Kivy",
+        "ver":"1.10.0",
+        "downloads": 13643,
+        "cat":"qpypi"
+    },
     {
         "src":"http://qpypi.qpython.org/pyshop/package/numpy",
         "rdate":"2017-06-01",
         "link":"http://pip:qpython@qpypi.qpython.org:11000/simple",
-        "smodule":"numpy",
+        "smodule":"numpy-qpython",
         "description":"numPy is the fundamental package needed for scientific computing with Python",
         "title":"Numpy",
         "ver":"1.9.2",
         "downloads": 20229,
-        "cat":"qpypi"
-    },
-    {
-        "src":"http://qpypi.qpython.org/pyshop/package/plyer",
-        "rdate":"2017-06-01",
-        "link":"http://pip:qpython@qpypi.qpython.org:11000/simple",
-        "smodule":"plyer",
-        "description":"Plyer is a platform-independent api to use features commonly found on various platforms, notably mobile ones, in Python",
-        "title":"Plyer",
-        "ver":"1.2.1",
-        "downloads": 13643,
         "cat":"qpypi"
     }
 ]
