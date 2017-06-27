@@ -5,21 +5,76 @@
         "rdate":"2017-06-01",
         "link":"http://qpypi.qpython.org:11000/simple",
         "smodule":"kivy-qpython",
-        "description":"Open source Python library for rapid development of applications that make use of innovative user interfaces",
+        "description":"GUI solution which support multi-touch apps",
         "title":"Kivy",
         "ver":"1.10.0",
         "downloads": 13643,
         "cat":"qpypi"
     },
     {
-        "src":"http://qpypi.qpython.org/pyshop/package/numpy",
+        "src":"http://qpypi.qpython.org/pyshop/package/numpy-qpython",
         "rdate":"2017-06-01",
         "link":"http://qpypi.qpython.org:11000/simple",
         "smodule":"numpy-qpython",
-        "description":"numPy is the fundamental package needed for scientific computing with Python",
+        "description":"The fundamental package needed for scientific computing with Python",
         "title":"Numpy",
         "ver":"1.9.2",
         "downloads": 20229,
+        "cat":"qpypi"
+    },
+    {
+        "src":"http://qpypi.qpython.org/pyshop/package/paramiko-qpython",
+        "rdate":"2017-06-01",
+        "link":"http://qpypi.qpython.org:11000/simple",
+        "smodule":"paramiko-qpython",
+        "description":"A library for making SSH2 connections (client or server)",
+        "title":"Paramiko",
+        "ver":"1.15.2",
+        "downloads": 10229,
+        "cat":"qpypi"
+    },
+    {
+        "src":"http://qpypi.qpython.org/pyshop/package/PIL-qpython",
+        "rdate":"2017-06-01",
+        "link":"http://qpypi.qpython.org:11000/simple",
+        "smodule":"PIL-qpython",
+        "description":"PIL adds image processing capabilities to Python interpreter",
+        "title":"PIL",
+        "ver":"1.1.7",
+        "downloads": 5229,
+        "cat":"qpypi"
+    },
+    {
+        "src":"http://qpypi.qpython.org/pyshop/package/tornado-qpython",
+        "rdate":"2017-06-01",
+        "link":"http://qpypi.qpython.org:11000/simple",
+        "smodule":"tornado-qpython",
+        "description":"A Python web framework and asynchronous networking library",
+        "title":"Tornado",
+        "ver":"4.5.1",
+        "downloads": 20229,
+        "cat":"qpypi"
+    },
+    {
+        "src":"http://qpypi.qpython.org/pyshop/package/mysql-connector-qpython",
+        "rdate":"2017-06-01",
+        "link":"http://qpypi.qpython.org:11000/simple",
+        "smodule":"mysql-connector-qpython",
+        "description":"MySQL driver written in pure Python",
+        "title":"Mysql Connector",
+        "ver":"1.15.2",
+        "downloads": 10229,
+        "cat":"qpypi"
+    },
+    {
+        "src":"http://qpypi.qpython.org/pyshop/package/lxml-qpython",
+        "rdate":"2017-06-01",
+        "link":"http://qpypi.qpython.org:11000/simple",
+        "smodule":"lxml-qpython",
+        "description":"A Pythonic binding for the C libraries libxml2 and libxslt",
+        "title":"lxml",
+        "ver":"2.3.6",
+        "downloads": 12229,
         "cat":"qpypi"
     }
 ]
