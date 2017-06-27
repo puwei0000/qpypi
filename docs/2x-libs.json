@@ -5,9 +5,31 @@
         "link":"http://dl.qpy.io/2x/scripts/qedit4web.py",
         "smodule":"qedit4web.py",
         "description":"Qeditor web for qpython",
-        "title":"qedit4web",
+        "title":"Qedit web",
         "ver":"0.9.0",
         "downloads": 100,
+        "cat":"script"
+    },
+    {
+        "src":"http://qpython.org",
+        "rdate":"2017-06-15",
+        "link":"http://dl.qpy.io/2x/scripts/pip4console.py",
+        "smodule":"pip4console.py",
+        "description":"Pip console script for qpython",
+        "title":"Pip console script",
+        "ver":"0.9.0",
+        "downloads": 200,
+        "cat":"script"
+    },
+    {
+        "src":"http://qpython.org",
+        "rdate":"2017-06-15",
+        "link":"http://dl.qpy.io/2x/scripts/django4console.py",
+        "smodule":"django4console.py",
+        "description":"Django console script for qpython",
+        "title":"Django manage script",
+        "ver":"0.9.0",
+        "downloads": 200,
         "cat":"script"
     }
 ]
