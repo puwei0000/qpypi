@@ -24,9 +24,9 @@
     {
         "src":"http://qpython.org",
         "rdate":"2017-06-15",
-        "link":"http://dl.qpy.io/2x/scripts/django4console.py",
-        "smodule":"django4console.py",
-        "description":"Django console script for qpython",
+        "link":"http://dl.qpy.io/2x/scripts/djangoman.py",
+        "smodule":"djangoman.py",
+        "description":"Django manage tool for qpython",
         "title":"Django manage script",
         "ver":"0.9.0",
         "downloads": 200,
