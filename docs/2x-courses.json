@@ -2,6 +2,17 @@
     {
         "src":"http://qpython.org",
         "rdate":"2017-06-15",
+        "link":"http://www.qpython.org/quick-start/",
+        "smodule":"quick-start",
+        "description":"A hands-on introduction to Python for beginning programmers",
+        "title":"Quick start",
+        "ver":"1.0.0",
+        "downloads": 100,
+        "cat":"course"
+    },
+    {
+        "src":"http://qpython.org",
+        "rdate":"2017-06-15",
         "link":"http://www.qpython.org/en/guide_howtostart.html",
         "smodule":"getting-start",
         "description":"Teach you how to start QPython quickly",
