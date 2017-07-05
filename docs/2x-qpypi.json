@@ -87,5 +87,16 @@
         "ver":"3.3.0",
         "downloads": 1009,
         "cat":"qpypi"
+    },
+    {
+        "src":"http://qpypi.qpython.org/pyshop/package/opencv-qpython",
+        "rdate":"2017-07-01",
+        "link":"http://qpypi.qpython.org:11000/simple",
+        "smodule":"opencv-qpython",
+        "description":"OpenCV",
+        "title":"OpenCV",
+        "ver":"2.4.10",
+        "downloads": 109,
+        "cat":"qpypi"
     }
 ]
