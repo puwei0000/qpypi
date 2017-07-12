@@ -2,7 +2,7 @@
     {
         "src":"http://qpython.org",
         "rdate":"2017-06-15",
-        "link":"http://dl.qpy.io/2x/scripts/qedit4web.py",
+        "link":"http://dl.qpy.io/3x/scripts/qedit4web.py",
         "smodule":"qedit4web.py",
         "description":"Qeditor web for qpython",
         "title":"Qedit web",
