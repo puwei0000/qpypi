@@ -52,7 +52,7 @@ class MyWSGIRefServer(ServerAdapter):
         threading.Thread(target=self.server.shutdown).start()
         # self.server.shutdown()
         self.server.server_close()
-        print "# QWEBAPPEND"
+        print("# QWEBAPPEND")
 
 
 # ---- BUILT-IN ROUTERS ----
@@ -233,4 +233,4 @@ try:
     server = MyWSGIRefServer(host="0.0.0.0", port="10000")
     app.run(server=server, reloader=False)
 except Exception, ex:
-    print "Exception: %s" % repr(ex)
+    print("Exception: %s" % repr(ex))
