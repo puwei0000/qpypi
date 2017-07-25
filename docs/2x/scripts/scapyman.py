@@ -1,6 +1,6 @@
 #qpy:console
 __doc__ = """
-Sqlmap for qpython
+Scapy for qpython
 
 @version: 0.9
 @Author: River
@@ -17,16 +17,16 @@ def modcmd(arg):
   os.system(sys.executable+" "+sys.prefix+"/bin/"+arg)
 
 def modcmdh(arg):
-  os.system(sys.executable+" "+sys.prefix+"/bin/"+arg+" --output-dir="+ROOT+"/cache")
+  os.system(sys.executable+" "+sys.prefix+"/bin/"+arg)
 
 
 if __name__ == "__main__":
 
     op(__doc__)
     try:
-        import sqlmap
+        import scapy
 
-        modcmd("sqlmap -h")
+        modcmd("scapy -h")
 
         while(True):
           cmd=raw_input("-->")
@@ -36,8 +36,7 @@ if __name__ == "__main__":
     except ImportError:
 
 
-        opt = raw_input("QPY> sqlmap library not found, do you want to install it ?\n yes/no\n")
+        opt = raw_input("QPY> scapy library not found, do you want to install it ?\n yes/no\n")
         if opt=='yes':
-            os.system(sys.executable+" "+sys.prefix+"/bin/pip install sqlmap")
-            op("You can restart this script after sqlmap being installed")
-
+            os.system(sys.executable+" "+sys.prefix+"/bin/pip install scapy")
+            op("You can restart this script after scapy being installed")
