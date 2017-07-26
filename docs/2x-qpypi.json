@@ -98,5 +98,16 @@
         "ver":"2.4.10",
         "downloads": 109,
         "cat":"qpypi"
+    },
+    {
+        "src":"http://qpypi.qpython.org/pyshop/package/fabric-qpython",
+        "rdate":"2017-07-26",
+        "link":"http://qpypi.qpython.org:11000/simple",
+        "smodule":"fabric-qpython",
+        "description":"Pythonic tool for remote execution and deployment",
+        "title":"Fabric",
+        "ver":"1.13.2",
+        "downloads": 209,
+        "cat":"qpypi"
     }
 ]
