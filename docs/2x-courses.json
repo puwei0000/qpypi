@@ -33,5 +33,40 @@
                 "downloads": 105
             }
         ]
+    },
+    {
+        "src":"http://qpython.org",
+        "rdate":"2017-06-15",
+        "link":"http://edu.qpython.org/start/course.html",
+        "smodule":"quick-start",
+        "description":"A hands-on introduction to Python",
+        "title":"Basic",
+        "ver":"1.0.0",
+        "downloads": 100,
+        "cat":"new",
+        "level": 1,
+        "logo": "http://www.qpython.org/images/bestpython.png",
+        "courses":[
+            {
+                "src":"http://qpython.org",
+                "rdate":"2017-06-15",
+                "link":"http://edu.qpython.org/start/course.html",
+                "smodule":"quick-start-1",
+                "description":"Basic syntax",
+                "title":"Basic syntax",
+                "ver":"1.0.0",
+                "downloads": 100
+            },
+            {
+                "src":"http://qpython.org",
+                "rdate":"2017-06-15",
+                "link":"http://edu.qpython.org/start/course.html",
+                "smodule":"quick-start-2",
+                "description":"Dive into Python",
+                "title":"Dive into Python",
+                "ver":"1.0.0",
+                "downloads": 105
+            }
+        ]
     }
 ]
