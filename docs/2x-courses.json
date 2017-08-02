@@ -16,7 +16,7 @@
         "courses":[
             {
                 "rdate":"2017-06-15",
-                "link":"http://edu.qpython.org/qpython-quick-start/principles.html",
+                "link":"http://edu.qpython.org/qpython-quick-start/principle.html",
                 "smodule":"qpython-quick-start-principles",
                 "description":"Why QPython",
                 "title":"QPython Principles",
