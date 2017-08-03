@@ -9,9 +9,9 @@
         "title":"QPython Quick Start",
         "ver":"1.0.0",
         "downloads": "10,000+",
-        "cat":"featured",
+        "cat":"new",
         "level": 1,
-        "logo": "http://www.qpython.org/images/bestpython.png",
+        "logo": "http://dl.qpy.io/assets/banners/course-qpython-quick-start.png",
         "open": 1,
         "courses":[
             {
@@ -69,7 +69,7 @@
         "cat":"featured",
         "level": 2,
         "open": 1,
-        "logo": "http://www.qpython.org/images/bestpython.png",
+        "logo": "http://dl.qpy.io/assets/banners/course-qpython-webapp.png",
         "courses":[
             {
                 "rdate":"2017-06-15",
@@ -117,7 +117,7 @@
         "downloads": "5,000+",
         "cat":"featured",
         "level": 3,
-        "logo": "http://www.qpython.org/images/bestpython.png",
+        "logo": "http://dl.qpy.io/assets/banners/course-kivy-qpython.png",
         "open": 0,
         "courses":[
         ]
@@ -131,9 +131,9 @@
         "title":"QSL4A - Native Android APIs Library for QPython",
         "ver":"1.0.0",
         "downloads": "3,000+",
-        "cat":"featured",
+        "cat":"hidden",
         "level": 3,
-        "logo": "http://www.qpython.org/images/bestpython.png",
+        "logo": "http://dl.qpy.io/assets/banners/course-qpython-quick-start.png",
         "open": 0,
         "courses":[
         ]
@@ -147,9 +147,9 @@
         "title":"Kivy on QPython",
         "ver":"1.0.0",
         "downloads": "5,000+",
-        "cat":"featured",
+        "cat":"new",
         "level": 3,
-        "logo": "http://www.qpython.org/images/bestpython.png",
+        "logo": "http://dl.qpy.io/assets/banners/course-kivy-qpython.png",
         "open": 0,
         "courses":[
         ]
@@ -165,7 +165,7 @@
         "downloads": "1,000+",
         "cat":"featured",
         "level": 3,
-        "logo": "http://www.qpython.org/images/bestpython.png",
+        "logo": "http://dl.qpy.io/assets/banners/course-data-analytics.png",
         "open": 0,
         "courses":[
         ]
