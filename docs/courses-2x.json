@@ -139,22 +139,6 @@
         ]
     },
     {
-        "src":"http://kivy.org",
-        "rdate":"2017-08-15",
-        "link":"http://edu.qpython.org/kivy-qpython/index.html",
-        "smodule":"kivy-qpython",
-        "description":"How to develop a GUI program with Kivy",
-        "title":"Kivy on QPython",
-        "ver":"1.0.0",
-        "downloads": "5,000+",
-        "cat":"new",
-        "level": 3,
-        "logo": "http://dl.qpy.io/assets/banners/course-kivy-qpython.png",
-        "open": 0,
-        "courses":[
-        ]
-    },
-    {
         "src":"http://qpython.org",
         "rdate":"2017-09-15",
         "link":"http://edu.qpython.org/data-analytics/index.html",
