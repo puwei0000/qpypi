@@ -111,12 +111,12 @@
         "cat":"qpypi"
     },
     {
-        "src":"http://qpypi.qpython.org/pyshop/package/pyasn1-qpython",
+        "src":"http://qpypi.qpython.org/pyshop/package/google-api-qpython-client",
         "rdate":"2017-07-26",
         "link":"http://qpypi.qpython.org:11000/simple",
-        "smodule":"pyasn1-qpython",
-        "description":"Python implementation of ASN.1 types and DER/BER/CER codecs",
-        "title":"Pyasn1",
+        "smodule":"google-api-qpython-client",
+        "description":"The Google API Client for QPython",
+        "title":"Google-api-qpython-client",
         "ver":"0.3.4",
         "downloads": 209,
         "cat":"qpypi"
