@@ -118,7 +118,7 @@
         "description":"The Google API Client for QPython",
         "title":"Google-api-qpython-client",
         "ver":"0.3.4",
-        "downloads": 209,
+        "downloads": "300+",
         "cat":"qpypi"
     }
 ]
