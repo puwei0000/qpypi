@@ -120,7 +120,7 @@
         "ver":"0.3.4",
         "downloads": "300+",
         "cat":"qpypi"
-    }
+    },
     {
         "src":"http://qpypi.qpython.org/pyshop/package/kivymd-qpython",
         "rdate":"2017-09-12",
