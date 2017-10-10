@@ -237,6 +237,9 @@ __title__ = "Remote terminal for QPython"
 import os,sys,qpy
 
 ROOT = qpy.projects
+ROOT = ROOT.split('/')
+ROOT = [i for i in ROOT if i != 'scripts']
+ROOT = '/'.join(ROOT)
 os.chdir(ROOT)
 
 try:
