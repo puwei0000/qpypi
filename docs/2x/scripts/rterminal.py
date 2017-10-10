@@ -236,7 +236,8 @@ __title__ = "Remote terminal for QPython"
 
 import os,sys,qpy
 
-ROOT    = qpy.home
+ROOT = qpy.projects
+os.chdir(ROOT)
 
 try:
     import androidhelper
@@ -245,7 +246,7 @@ except:
     pass
 
 def writerterminalfiles():
-    os.chdir(os.path.join(ROOT,'projects'))
+    os.chdir(ROOT)
     try:
         os.mkdir('rterminal')
         os.chdir('rterminal')
@@ -293,7 +294,7 @@ def init_parameters():
 try:
     from fabric.api import env,run
     import kivymd
-    os.chdir(os.path.join(ROOT,'projects/rterminal'))
+    os.chdir(os.path.join(ROOT,'rterminal'))
 except:
     first_welcome()
 else:
