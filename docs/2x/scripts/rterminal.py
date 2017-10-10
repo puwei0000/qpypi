@@ -234,9 +234,9 @@ Remote terminal for QPython, the pythonic tool for remote execution and deployme
 """
 __title__ = "Remote terminal for QPython"
 
-import os,sys
+import os,sys,qpy
 
-ROOT    = "/sdcard/qpython"
+ROOT    = qpy.home
 
 try:
     import androidhelper
@@ -293,7 +293,7 @@ def init_parameters():
 try:
     from fabric.api import env,run
     import kivymd
-    os.chdir('/sdcard/qpython/projects/rterminal')
+    os.chdir(os.path.join(ROOT,'projects/rterminal'))
 except:
     first_welcome()
 else:
