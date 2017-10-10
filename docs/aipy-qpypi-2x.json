@@ -12,6 +12,17 @@
         "cat":"qpypi"
     },
     {
+        "src":"http://qpypi.qpython.org/pyshop/package/matplotlib-aipy",
+        "rdate":"2017-10-01",
+        "link":"http://qpypi.qpython.org:11000/simple",
+        "smodule":"matplotlib-aipy",
+        "description":"Matplotlib strives to produce publication quality 2D graphics",
+        "title":"Matplotlib",
+        "ver":"2.1.0",
+        "downloads": "5,000+",
+        "cat":"qpypi"
+    },
+    {
         "src":"http://qpypi.qpython.org/pyshop/package/scipy-aipy",
         "rdate":"2017-10-01",
         "link":"http://qpypi.qpython.org:11000/simple",
