@@ -70,8 +70,8 @@
         "rdate":"2017-10-10",
         "link":"http://dl.qpy.io/2x/scripts/run_onlineman.py",
         "smodule":"run_onlineman.py",
-        "description":"Qpython run online",
-        "title":"Qpython run online",
+        "description":"Remote terminal for QPython",
+        "title":"Remote terminal for QPython",
         "ver":"0.1.0",
         "downloads": "100+",
         "cat":"script"
