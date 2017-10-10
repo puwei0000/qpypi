@@ -64,5 +64,16 @@
         "ver":"0.9.0",
         "downloads": "500+",
         "cat":"script"
+    },
+    {
+        "src":"http://qpython.org",
+        "rdate":"2017-10-10",
+        "link":"http://dl.qpy.io/2x/scripts/run_onlineman.py",
+        "smodule":"run_onlineman.py",
+        "description":"Qpython run online",
+        "title":"Qpython run online",
+        "ver":"0.1.0",
+        "downloads": "100+",
+        "cat":"script"
     }
 ]
