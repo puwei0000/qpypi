@@ -68,8 +68,8 @@
     {
         "src":"http://qpython.org",
         "rdate":"2017-10-10",
-        "link":"http://dl.qpy.io/2x/scripts/run_onlineman.py",
-        "smodule":"run_onlineman.py",
+        "link":"http://dl.qpy.io/2x/scripts/rterminal.py",
+        "smodule":"rterminal.py",
         "description":"Remote terminal for QPython",
         "title":"Remote terminal for QPython",
         "ver":"0.1.0",
