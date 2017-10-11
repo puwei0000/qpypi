@@ -12,6 +12,17 @@
         "cat":"qpypi"
     },
     {
+        "src":"http://qpypi.qpython.org/pyshop/package/theano-aipy",
+        "rdate":"2017-10-01",
+        "link":"http://qpypi.qpython.org:11000/simple",
+        "smodule":"theano-aipy",
+        "description":"Optimizing compiler for evaluating mathematical expressions",
+        "title":"Theano",
+        "ver":"0.10.0beta3",
+        "downloads": "5,000+",
+        "cat":"qpypi"
+    },
+    {
         "src":"http://qpypi.qpython.org/pyshop/package/matplotlib-aipy",
         "rdate":"2017-10-01",
         "link":"http://qpypi.qpython.org:11000/simple",
