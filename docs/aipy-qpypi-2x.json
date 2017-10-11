@@ -1,17 +1,6 @@
 [
 
     {
-        "src":"http://kivy.org",
-        "rdate":"2017-06-01",
-        "link":"http://qpypi.qpython.org:11000/simple",
-        "smodule":"kivy-qpython",
-        "description":"GUI solution which support multi-touch apps",
-        "title":"Kivy",
-        "ver":"1.10.0",
-        "downloads": "10,000+",
-        "cat":"qpypi"
-    },
-    {
         "src":"http://qpypi.qpython.org/pyshop/package/theano-aipy",
         "rdate":"2017-10-01",
         "link":"http://qpypi.qpython.org:11000/simple",
