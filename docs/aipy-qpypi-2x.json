@@ -1,5 +1,15 @@
 [
-
+    {
+        "src":"http://qpypi.qpython.org/pyshop/package/scikit-learn-aipy",
+        "rdate":"2017-10-01",
+        "link":"http://qpypi.qpython.org:11000/simple",
+        "smodule":"scikit-learn-aipy",
+        "description":"Scikit-learn is a Python module for machine learning built on top of SciPy",
+        "title":"Scikit-learn",
+        "ver":"0.19.0",
+        "downloads": "5,000+",
+        "cat":"qpypi"
+    },
     {
         "src":"http://qpypi.qpython.org/pyshop/package/theano-aipy",
         "rdate":"2017-10-01",
