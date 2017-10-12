@@ -1,5 +1,16 @@
 [
     {
+        "src":"http://qpypi.qpython.org/pyshop/package/keras-aipy",
+        "rdate":"2017-10-01",
+        "link":"http://qpypi.qpython.org:11000/simple",
+        "smodule":"keras-aipy",
+        "description":"Deep Learning for QPython",
+        "title":"Keras",
+        "ver":"2.0.8",
+        "downloads": "5,000+",
+        "cat":"qpypi"
+    },
+    {
         "src":"http://qpypi.qpython.org/pyshop/package/scikit-learn-aipy",
         "rdate":"2017-10-01",
         "link":"http://qpypi.qpython.org:11000/simple",
