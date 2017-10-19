@@ -15,7 +15,7 @@
         "src":"http://qpypi.qpython.org/pyshop/package/paramiko-qpython",
         "rdate":"2017-06-01",
         "link":"http://qpypi.qpython.org:11000/simple",
-        "smodule":"paramiko-u4-qpython",
+        "smodule":"paramiko-qpython",
         "description":"A library for making SSH2 connections",
         "title":"Paramiko",
         "ver":"1.15.2",
@@ -23,7 +23,7 @@
         "cat":"qpypi"
     },
     {
-        "src":"http://qpypi.qpython.org/pyshop/package/PIL-qpython",
+        "src":"http://qpypi.qpython.org/pyshop/package/PIL-u4-qpython",
         "rdate":"2017-06-01",
         "link":"http://qpypi.qpython.org:11000/simple",
         "smodule":"PIL-u4-qpython",
@@ -56,7 +56,7 @@
         "cat":"qpypi"
     },
     {
-        "src":"http://qpypi.qpython.org/pyshop/package/lxml-qpython",
+        "src":"http://qpypi.qpython.org/pyshop/package/lxml-u4-qpython",
         "rdate":"2017-06-01",
         "link":"http://qpypi.qpython.org:11000/simple",
         "smodule":"lxml-u4-qpython",
@@ -67,7 +67,7 @@
         "cat":"qpypi"
     },
     {
-        "src":"http://qpypi.qpython.org/pyshop/package/protobuf-qpython",
+        "src":"http://qpypi.qpython.org/pyshop/package/protobuf-u4-qpython",
         "rdate":"2017-06-01",
         "link":"http://qpypi.qpython.org:11000/simple",
         "smodule":"protobuf-u4-qpython",
@@ -78,7 +78,7 @@
         "cat":"qpypi"
     },
     {
-        "src":"http://qpypi.qpython.org/pyshop/package/opencv-qpython",
+        "src":"http://qpypi.qpython.org/pyshop/package/opencv-u4-qpython",
         "rdate":"2017-07-01",
         "link":"http://qpypi.qpython.org:11000/simple",
         "smodule":"opencv-u4-qpython",
