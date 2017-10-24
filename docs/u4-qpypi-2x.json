@@ -111,10 +111,10 @@
         "cat":"qpypi"
     },
     {
-        "src":"http://qpypi.qpython.org/pyshop/package/kivymd-qpython",
+        "src":"http://qpypi.qpython.org/pyshop/package/kivymd-u4-qpython",
         "rdate":"2017-09-12",
         "link":"http://qpypi.qpython.org:11000/simple",
-        "smodule":"kivymd-qpython",
+        "smodule":"kivymd-u4-qpython",
         "description":"Set of widgets for Kivy inspired by Google's Material Design",
         "title":"KivyMD",
         "ver":"0.1.2",
