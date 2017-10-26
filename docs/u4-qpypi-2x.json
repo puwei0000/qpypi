@@ -12,10 +12,10 @@
         "cat":"qpypi"
     },
     {
-        "src":"http://qpypi.qpython.org/pyshop/package/paramiko-qpython",
+        "src":"http://qpypi.qpython.org/pyshop/package/paramiko-u4-qpython",
         "rdate":"2017-06-01",
         "link":"http://qpypi.qpython.org:11000/simple",
-        "smodule":"paramiko-qpython",
+        "smodule":"paramiko-u4-qpython",
         "description":"A library for making SSH2 connections",
         "title":"Paramiko",
         "ver":"1.15.2",
