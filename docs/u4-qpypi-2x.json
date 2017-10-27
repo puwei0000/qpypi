@@ -67,10 +67,10 @@
         "cat":"qpypi"
     },
     {
-        "src":"http://qpypi.qpython.org/pyshop/package/protobuf-u4-qpython",
+        "src":"http://qpypi.qpython.org/pyshop/package/protobuf-qpython",
         "rdate":"2017-06-01",
         "link":"http://qpypi.qpython.org:11000/simple",
-        "smodule":"protobuf-u4-qpython",
+        "smodule":"protobuf-qpython",
         "description":"Protocol Buffers are Google's data interchange format",
         "title":"Protobuf",
         "ver":"3.3.0",
