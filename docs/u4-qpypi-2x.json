@@ -89,10 +89,10 @@
         "cat":"qpypi"
     },
     {
-        "src":"http://qpypi.qpython.org/pyshop/package/fabric-qpython",
+        "src":"http://qpypi.qpython.org/pyshop/package/fabric-u4-qpython",
         "rdate":"2017-07-26",
         "link":"http://qpypi.qpython.org:11000/simple",
-        "smodule":"fabric-qpython",
+        "smodule":"fabric-u4-qpython",
         "description":"Pythonic tool for remote execution and deployment",
         "title":"Fabric",
         "ver":"1.13.2",
