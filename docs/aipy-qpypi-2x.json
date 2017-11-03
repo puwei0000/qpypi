@@ -11,6 +11,17 @@
         "cat":"qpypi"
     },
     {
+        "src":"http://qpypi.qpython.org/pyshop/package/lasagne-aipy",
+        "rdate":"2017-10-01",
+        "link":"http://qpypi.qpython.org:11000/simple",
+        "smodule":"lasagne-aipy",
+        "description":"A lightweight library to build and train neural networks in Theano",
+        "title":"Lasagne",
+        "ver":"0.1",
+        "downloads": "5,000+",
+        "cat":"qpypi"
+    },
+    {
         "src":"http://qpypi.qpython.org/pyshop/package/scikit-learn-aipy",
         "rdate":"2017-10-01",
         "link":"http://qpypi.qpython.org:11000/simple",
