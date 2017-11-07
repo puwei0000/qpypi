@@ -15,6 +15,27 @@ mf = os.path.dirname(__file__)+'/manage.py'
 os.system(sys.executable+" "+mf+' runserver')
 """
 
+__webappurltpl__ = """
+from django.conf.urls import url
+from django.contrib import admin
+from django.http import HttpResponse
+import os.path
+
+def webapp_index(request):
+    r = '''It works, you can develop this project with <a href='javascript:milib.qeditor("%s")'>QPython Editor</a> now.''' % os.path.abspath(__file__)
+    return HttpResponse(r)
+
+def webapp_exit(request):
+    import os,signal
+    os.kill(os.getpid(), signal.SIGKILL)
+
+urlpatterns = [
+    url(r'^admin/', admin.site.urls),
+    url(r'^__exit', webapp_exit),
+    url(r'^$', webapp_index),
+]
+"""
+
 import os,os.path,sys
 
 os.chmod = lambda x,y: True
@@ -87,6 +108,10 @@ def createproject(arg):
     PROJECT = arg
     with open(ROOT+'/'+PROJECT+"/main.py",'w') as d:
         d.write(__webapptpl__)
+
+    with open(ROOT+'/'+PROJECT+"/"+PROJECT+"/urls.py",'w') as d:
+        d.write(__webappurltpl__)
+
     op("Project %s created, you can develop this project with QEditor then manage this project through this tool.\n" % arg)
 
 if __name__ == "__main__":
