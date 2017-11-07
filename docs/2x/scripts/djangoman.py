@@ -22,7 +22,7 @@ from django.http import HttpResponse
 import os.path
 
 def webapp_index(request):
-    r = '''It works, you can develop this project with <a href='javascript:milib.qeditor("%s")'>QPython Editor</a> now.''' % os.path.abspath(__file__)
+    r = '''It works, you can develop this project with <a href='javascript:milib.qedit("%s")'>QPython Editor</a> now.''' % os.path.abspath(__file__)
     return HttpResponse(r)
 
 def webapp_exit(request):
