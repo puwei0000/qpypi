@@ -78,17 +78,6 @@
         "cat":"qpypi"
     },
     {
-        "src":"http://qpypi.qpython.org/pyshop/package/opencv-u4-qpython",
-        "rdate":"2017-07-01",
-        "link":"http://qpypi.qpython.org:11000/simple",
-        "smodule":"opencv-u4-qpython",
-        "description":"OpenCV",
-        "title":"OpenCV",
-        "ver":"2.4.10",
-        "downloads": "3,000+",
-        "cat":"qpypi"
-    },
-    {
         "src":"http://qpypi.qpython.org/pyshop/package/fabric-u4-qpython",
         "rdate":"2017-07-26",
         "link":"http://qpypi.qpython.org:11000/simple",
