@@ -35,6 +35,17 @@
     {
         "src":"http://qpython.org",
         "rdate":"2017-06-15",
+        "link":"http://dl.qpy.io/2x/scripts/fabricman.py",
+        "smodule":"fabricman.py",
+        "description":"Fabric Manager",
+        "title":"Pythonic tool for remote execution and deployment",
+        "ver":"0.9.0",
+        "downloads": "500+",
+        "cat":"script"
+    },
+    {
+        "src":"http://qpython.org",
+        "rdate":"2017-06-15",
         "link":"http://dl.qpy.io/2x/scripts/sqlmapman.py",
         "smodule":"sqlmapman.py",
         "description":"sqlmap tool for qpython",
@@ -54,17 +65,7 @@
         "downloads": "1,000+",
         "cat":"script"
     },
-    {
-        "src":"http://qpython.org",
-        "rdate":"2017-06-15",
-        "link":"http://dl.qpy.io/2x/scripts/fabricman.py",
-        "smodule":"fabricman.py",
-        "description":"Fabric tool for qpython",
-        "title":"Fabric tool for qpython",
-        "ver":"0.9.0",
-        "downloads": "500+",
-        "cat":"script"
-    },
+
     {
         "src":"http://qpython.org",
         "rdate":"2017-10-10",
