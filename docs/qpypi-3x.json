@@ -1,0 +1,25 @@
+[
+
+    {
+        "src":"http://qpypi3.qpython.org/pyshop/package/mysql-connector-qpython",
+        "rdate":"2017-06-01",
+        "link":"http://qpypi3.qpython.org:11000/simple",
+        "smodule":"mysql-connector-qpython",
+        "description":"MySQL driver written in pure Python",
+        "title":"Mysql Connector",
+        "ver":"1.0.8",
+        "downloads": "1,000+",
+        "cat":"qpypi"
+    },
+    {
+        "src":"http://qpypi.qpython.org/pyshop/package/lxml-qpython",
+        "rdate":"2017-06-01",
+        "link":"http://qpypi3.qpython.org:11000/simple",
+        "smodule":"pyxmpp2-qpython",
+        "description":"PyXMPP2",
+        "title":"PyXMPP2",
+        "ver":"2.0.0",
+        "downloads": "2,000+",
+        "cat":"qpypi"
+    }
+]
