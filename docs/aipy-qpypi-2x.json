@@ -39,7 +39,7 @@
         "smodule":"theano-aipy",
         "description":"Optimizing compiler for evaluating mathematical expressions",
         "title":"Theano",
-        "ver":"0.10.0beta3",
+        "ver":"0.10.0",
         "downloads": "5,000+",
         "cat":"qpypi"
     },
