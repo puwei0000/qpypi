@@ -12,6 +12,17 @@
         "cat":"qpypi"
     },
     {
+        "src":"http://kivy.org",
+        "rdate":"2017-06-01",
+        "link":"http://qpypi.qpython.org:11000/simple",
+        "smodule":"pyjnius-u4-qpython",
+        "description":"Access Java classes from Python",
+        "title":"Pyjnius",
+        "ver":"1.1.2",
+        "downloads": "5,000+",
+        "cat":"qpypi"
+    },
+    {
         "src":"http://qpypi.qpython.org/pyshop/package/paramiko-u4-qpython",
         "rdate":"2017-06-01",
         "link":"http://qpypi.qpython.org:11000/simple",
