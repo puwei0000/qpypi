@@ -1,5 +1,15 @@
 [
-
+    {
+        "src":"http://qpypi3.qpython.org/pyshop/package/ipython-qpython",
+        "rdate":"2017-06-01",
+        "link":"http://qpypi3.qpython.org:11000/simple",
+        "smodule":"ipython-qpython",
+        "description":"Productive Interactive Computing",
+        "title":"IPython",
+        "ver":"6.2.1",
+        "downloads": "6,000+",
+        "cat":"qpypi"
+    },
     {
         "src":"http://qpypi3.qpython.org/pyshop/package/mysql-connector-qpython",
         "rdate":"2017-06-01",
