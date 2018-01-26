@@ -2,7 +2,7 @@
     {
         "src":"http://qpypi3.qpython.org/pyshop/package/ipython-qpython",
         "rdate":"2017-06-01",
-        "link":"http://qpypi3.qpython.org:11000/simple",
+        "link":"http://qpypi3.qpython.org/simple",
         "smodule":"ipython-qpython",
         "description":"Productive Interactive Computing",
         "title":"IPython",
@@ -13,7 +13,7 @@
     {
         "src":"http://qpypi3.qpython.org/pyshop/package/mysql-connector-qpython",
         "rdate":"2017-06-01",
-        "link":"http://qpypi3.qpython.org:11000/simple",
+        "link":"http://qpypi3.qpython.org/simple",
         "smodule":"mysql-connector-qpython",
         "description":"MySQL driver written in pure Python",
         "title":"Mysql Connector",
@@ -24,7 +24,7 @@
     {
         "src":"http://qpypi.qpython.org/pyshop/package/lxml-qpython",
         "rdate":"2017-06-01",
-        "link":"http://qpypi3.qpython.org:11000/simple",
+        "link":"http://qpypi3.qpython.org/simple",
         "smodule":"pyxmpp2-qpython",
         "description":"PyXMPP2",
         "title":"PyXMPP2",
