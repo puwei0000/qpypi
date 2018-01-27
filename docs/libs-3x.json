@@ -2,7 +2,7 @@
     {
         "src":"http://qpython.org",
         "rdate":"2018-01-26",
-        "link":"http://dl.qpy.io/3x/scripts/ipython.py",
+        "link":"http://dl.qpy.io/3x/scripts/ipython3.py",
         "smodule":"ipython3.py",
         "description":"IPython on qpython",
         "title":"IPython",
