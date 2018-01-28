@@ -23,6 +23,17 @@
         "cat":"qpypi"
     },
     {
+        "src":"http://qpypi.qpython.org/pyshop/package/ipython-qpython",
+        "rdate":"2018-01-28",
+        "link":"http://qpypi.qpython.org/simple",
+        "smodule":"ipython-qpython",
+        "description":"Productive Interactive Computing",
+        "title":"IPython",
+        "ver":"5.5.0",
+        "downloads": "6,000+",
+        "cat":"qpypi"
+    },
+    {
         "src":"http://qpypi.qpython.org/pyshop/package/paramiko-u4-qpython",
         "rdate":"2017-06-01",
         "link":"http://qpypi.qpython.org:11000/simple",
