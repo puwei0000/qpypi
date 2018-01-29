@@ -3,7 +3,7 @@
     {
         "src":"http://kivy.org",
         "rdate":"2017-06-01",
-        "link":"http://qpypi.qpython.org:11000/simple",
+        "link":"http://qpypi.qpython.org/simple/",
         "smodule":"kivy-u4-qpython",
         "description":"GUI solution which support multi-touch apps",
         "title":"Kivy",
@@ -14,7 +14,7 @@
     {
         "src":"http://kivy.org",
         "rdate":"2017-06-01",
-        "link":"http://qpypi.qpython.org:11000/simple",
+        "link":"http://qpypi.qpython.org/simple/",
         "smodule":"pyjnius-u4-qpython",
         "description":"Access Java classes from Python",
         "title":"Pyjnius",
@@ -25,7 +25,7 @@
     {
         "src":"http://qpypi.qpython.org/pyshop/package/ipython-qpython",
         "rdate":"2018-01-28",
-        "link":"http://qpypi.qpython.org/simple",
+        "link":"http://qpypi.qpython.org/simple/",
         "smodule":"ipython-qpython",
         "description":"Productive Interactive Computing",
         "title":"IPython",
@@ -36,7 +36,7 @@
     {
         "src":"http://qpypi.qpython.org/pyshop/package/paramiko-u4-qpython",
         "rdate":"2017-06-01",
-        "link":"http://qpypi.qpython.org:11000/simple",
+        "link":"http://qpypi.qpython.org/simple/",
         "smodule":"paramiko-u4-qpython",
         "description":"A library for making SSH2 connections",
         "title":"Paramiko",
@@ -47,7 +47,7 @@
     {
         "src":"http://qpypi.qpython.org/pyshop/package/PIL-u4-qpython",
         "rdate":"2017-06-01",
-        "link":"http://qpypi.qpython.org:11000/simple",
+        "link":"http://qpypi.qpython.org/simple/",
         "smodule":"PIL-u4-qpython",
         "description":"Image processing library",
         "title":"PIL",
@@ -58,7 +58,7 @@
     {
         "src":"http://qpypi.qpython.org/pyshop/package/tornado-qpython",
         "rdate":"2017-06-01",
-        "link":"http://qpypi.qpython.org:11000/simple",
+        "link":"http://qpypi.qpython.org/simple/",
         "smodule":"tornado-qpython",
         "description":"An asynchronous networking web library",
         "title":"Tornado",
@@ -69,7 +69,7 @@
     {
         "src":"http://qpypi.qpython.org/pyshop/package/mysql-connector-qpython",
         "rdate":"2017-06-01",
-        "link":"http://qpypi.qpython.org:11000/simple",
+        "link":"http://qpypi.qpython.org/simple/",
         "smodule":"mysql-connector-qpython",
         "description":"MySQL driver written in pure Python",
         "title":"Mysql Connector",
@@ -80,7 +80,7 @@
     {
         "src":"http://qpypi.qpython.org/pyshop/package/lxml-u4-qpython",
         "rdate":"2017-06-01",
-        "link":"http://qpypi.qpython.org:11000/simple",
+        "link":"http://qpypi.qpython.org/simple/",
         "smodule":"lxml-u4-qpython",
         "description":"A Pythonic binding for the libxml2 and libxslt",
         "title":"lxml",
@@ -91,7 +91,7 @@
     {
         "src":"http://qpypi.qpython.org/pyshop/package/protobuf-qpython",
         "rdate":"2017-06-01",
-        "link":"http://qpypi.qpython.org:11000/simple",
+        "link":"http://qpypi.qpython.org/simple/",
         "smodule":"protobuf-qpython",
         "description":"Protocol Buffers are Google's data interchange format",
         "title":"Protobuf",
@@ -102,7 +102,7 @@
     {
         "src":"http://qpypi.qpython.org/pyshop/package/fabric-u4-qpython",
         "rdate":"2017-07-26",
-        "link":"http://qpypi.qpython.org:11000/simple",
+        "link":"http://qpypi.qpython.org/simple/",
         "smodule":"fabric-u4-qpython",
         "description":"Pythonic tool for remote execution and deployment",
         "title":"Fabric",
@@ -113,7 +113,7 @@
     {
         "src":"http://qpypi.qpython.org/pyshop/package/google-api-qpython-client",
         "rdate":"2017-07-26",
-        "link":"http://qpypi.qpython.org:11000/simple",
+        "link":"http://qpypi.qpython.org/simple/",
         "smodule":"google-api-qpython-client",
         "description":"The Google API Client for QPython",
         "title":"Google-api-qpython-client",
@@ -124,7 +124,7 @@
     {
         "src":"http://qpypi.qpython.org/pyshop/package/kivymd-u4-qpython",
         "rdate":"2017-09-12",
-        "link":"http://qpypi.qpython.org:11000/simple",
+        "link":"http://qpypi.qpython.org/simple/",
         "smodule":"kivymd-u4-qpython",
         "description":"Set of widgets for Kivy inspired by Google's Material Design",
         "title":"KivyMD",
@@ -135,7 +135,7 @@
     {
         "src":"http://qpypi.qpython.org/pyshop/package/mock-qpython",
         "rdate":"2017-10-10",
-        "link":"http://qpypi.qpython.org:11000/simple",
+        "link":"http://qpypi.qpython.org/simple/",
         "smodule":"mock-qpython",
         "description":"Mock is a library for testing in Python",
         "title":"Mock",
