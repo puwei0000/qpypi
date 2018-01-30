@@ -139,6 +139,6 @@ if __name__ == "__main__":
 
         opt = raw_input("QPY> Django library not found, do you want to install it ?\n yes/no\n")
         if opt=='yes':
-            os.system(sys.executable+" "+sys.prefix+"/bin/pip install django==1.10")
+            os.system(sys.executable+" "+sys.prefix+"/bin/pip install django==1.11.9")
             op("You can restart this tool after django being installed")
 
