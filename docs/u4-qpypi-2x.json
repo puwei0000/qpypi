@@ -152,5 +152,15 @@
         "ver":"2.0.0",
         "downloads": "300+",
         "cat":"qpypi"
+    },{
+        "src":"http://qpypi.qpython.org/pyshop/package/notebook-qpython",
+        "rdate":"2017-10-10",
+        "link":"http://qpypi.qpython.org/simple/",
+        "smodule":"mock-qpython",
+        "description":"QPython Notebook",
+        "title":"QPython Notebook (BETA)",
+        "ver":"1.0.0",
+        "downloads": "100+",
+        "cat":"qpypi"
     }
 ]
