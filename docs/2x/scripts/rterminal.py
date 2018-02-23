@@ -21,7 +21,7 @@ def shell():run('{}')
 def file(sfile):
     dfile=sfile.split('/')[-1]
     put(sfile,dfile)
-    run('{} %s&rm -rf %s'%(dfile,dfile))
+    run('{} %s&&rm -f %s'%(dfile,dfile))
     
 if __name__ == '__main__':
     argv=[i for i in sys.argv if i]
