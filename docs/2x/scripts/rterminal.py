@@ -81,7 +81,7 @@ class Rterminal(object):
         from fabric.colors import yellow,green
         os.system('clear')
         print('\nRemote Terminal for QPython')
-        print('rterminal is running Python on server or computer by ssh(power by fabric)')
+        print('rterminal is running Python on server by ssh(fabric)')
         print(yellow('You should enter the following information:'))
         write('user@hostname:port')
         write(green(' --> '))
