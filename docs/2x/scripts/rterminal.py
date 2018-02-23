@@ -26,9 +26,9 @@ def file(sfile):
 if __name__ == '__main__':
     argv=[i for i in sys.argv if i]
     if len(argv) < 2:
-        os.system('fab -f online.py shell')
+        os.system('fab -f online2.py shell')
     else:
-        os.system('fab -f online.py file:%s'%argv[1])
+        os.system('fab -f online2.py file:%s'%argv[1])
 '''
 
 #$PYTHONHOME/bin/qpython-android5.sh A
