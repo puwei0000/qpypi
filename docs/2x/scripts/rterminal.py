@@ -42,7 +42,7 @@ DIR=${0%/*}
 qpython_android6='''
 #!/system/bin/sh
 DIR=${0%/*}
-. $DIR/init.sh && $DIR/python-android5 $DIR/online.py "$@" && $DIR/end.sh
+. $DIR/init.sh && $DIR/python-android5 $DIR/online2.py "$@" && $DIR/end.sh
 '''
 # -------------------------------------
 	
