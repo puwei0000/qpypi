@@ -43,6 +43,17 @@
         "downloads": "1000+",
         "cat":"script"
     },
+        {
+        "src":"http://qpython.org",
+        "rdate":"2018-02-24",
+        "link":"http://dl.qpy.io/2x/scripts/rterminal.py",
+        "smodule":"rterminal.py",
+        "description":"Running Python on server by ssh",
+        "title":"Rterminal",
+        "ver":"1.0.0",
+        "downloads": "1000+",
+        "cat":"script"
+    },
     {
         "src":"http://qpython.org",
         "rdate":"2017-06-15",
@@ -75,17 +86,6 @@
         "ver":"0.9.0",
         "downloads": "1,000+",
         "cat":"script"
-    },
-
-    {
-        "src":"http://qpython.org",
-        "rdate":"2018-02-24",
-        "link":"http://dl.qpy.io/2x/scripts/rterminal.py",
-        "smodule":"rterminal.py",
-        "description":"Remote terminal for QPython,running Python on server by ssh",
-        "title":"Rterminal",
-        "ver":"1.0.0",
-        "downloads": "5000+",
-        "cat":"script"
     }
+
 ]
