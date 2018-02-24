@@ -1,6 +1,6 @@
 #coding=utf-8
 # -------------------------------------
-#$PYTHONHOME/bin/online.py
+#$PYTHONHOME/bin/online2.py
 onlinePy='''
 #coding=utf-8
 import os,sys
@@ -21,7 +21,7 @@ def shell():run('{}')
 def file(sfile):
     dfile=sfile.split('/')[-1]
     put(sfile,dfile)
-    run('{} %s&&rm -f %s'%(dfile,dfile))
+    run('{} %s'%dfile)
     
 if __name__ == '__main__':
     argv=[i for i in sys.argv if i]
