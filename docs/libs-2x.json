@@ -82,10 +82,10 @@
         "rdate":"2017-10-10",
         "link":"http://dl.qpy.io/2x/scripts/rterminal.py",
         "smodule":"rterminal.py",
-        "description":"Remote terminal for QPython",
+        "description":"Running Python on server by ssh",
         "title":"Remote terminal for QPython",
         "ver":"0.1.0",
-        "downloads": "100+",
+        "downloads": "5000+",
         "cat":"script"
     }
 ]
