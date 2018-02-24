@@ -54,7 +54,6 @@ class Rterminal(object):
     hostname=''
     password=''
     command=''
-    status=''
     
     def __init__(self):
         pyhome = os.popen('echo $PYTHONHOME').read().strip()
