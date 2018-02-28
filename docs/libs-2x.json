@@ -48,7 +48,7 @@
         "rdate":"2018-01-26",
         "link":"http://dl.qpy.io/2x/scripts/ipython2.py",
         "smodule":"ipython2.py",
-        "description":"IPython on qpython",
+        "description":"An interactive shell for the Python programming language that offers enhanced introspection...",
         "title":"IPython",
         "ver":"0.9.0",
         "downloads": "1000+",
