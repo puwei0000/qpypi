@@ -77,7 +77,10 @@ class Rterminal(object):
         self.setconfig()
                          
     def welcome(self):
-        from fabric.colors import yellow,green
+	try:
+            from fabric.colors import yellow,green
+	except:
+	    yellow,green=print,print
         os.system('clear')
         print('\nRemote Terminal for QPython')
         print('rterminal is running Python on server by ssh(fabric)')
