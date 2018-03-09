@@ -80,7 +80,7 @@ class Rterminal(object):
 	try:
             from fabric.colors import yellow,green
 	except:
-	    yellow,green=print,print
+	    yellow,green=str,str
         os.system('clear')
         print('\nRemote Terminal for QPython')
         print('rterminal is running Python on server by ssh(fabric)')
