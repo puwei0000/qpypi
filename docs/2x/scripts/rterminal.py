@@ -78,7 +78,7 @@ class Rterminal(object):
                          
     def welcome(self):
 	try:
-            from fabric.colors import yellow,green
+	    from fabric.colors import yellow,green
 	except:
 	    yellow,green=str,str
         os.system('clear')
@@ -104,7 +104,10 @@ class Rterminal(object):
         
         
     def setconfig(self):
-        from fabric.colors import yellow,green
+	try:
+	    from fabric.colors import yellow,green
+	except:
+	    yellow,green=str,str
         if raw_input("do you want to save the information(Enter or n): ")!='n':
             pass
         else:
