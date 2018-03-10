@@ -67,7 +67,9 @@ class Rterminal(object):
             import fabric
         except ImportError:
             os.system(sys.executable+" "+sys.prefix+"/bin/pip install fabric-qpython -i http://qpypi.qpython.org/simple --extra-index-url https://pypi.python.org/simple/")
-        
+            os.system('clear')
+            print('\nFabric install done. please run again rterminal.py')
+            sys.exit()
         if not os.path.exists(self.online):
             with open(self.online,'w') as f:
                 f.write(onlinePy.format('pi@127.0.0.1:22','12345678','python','python'))
@@ -77,10 +79,7 @@ class Rterminal(object):
         self.setconfig()
                          
     def welcome(self):
-	try:
-	    from fabric.colors import yellow,green
-	except:
-	    yellow,green=str,str
+        from fabric.colors import yellow,green
         os.system('clear')
         print('\nRemote Terminal for QPython')
         print('rterminal is running Python on server by ssh(fabric)')
@@ -104,10 +103,7 @@ class Rterminal(object):
         
         
     def setconfig(self):
-	try:
-	    from fabric.colors import yellow,green
-	except:
-	    yellow,green=str,str
+        from fabric.colors import yellow,green
         if raw_input("do you want to save the information(Enter or n): ")!='n':
             pass
         else:
