@@ -66,8 +66,8 @@ class Rterminal(object):
         try:
             import fabric
         except ImportError:
-            os.system(sys.executable+" "+sys.prefix+"/bin/pip install fabric-qpython -i http://qpypi.qpython.org/simple --extra-index-url https://pypi.python.org/simple/")
-        
+            print('\nHello, please install Fabric on QPYPI, and run again rterminal.py')
+            sys.exit()
         if not os.path.exists(self.online):
             with open(self.online,'w') as f:
                 f.write(onlinePy.format('pi@127.0.0.1:22','12345678','python','python'))
