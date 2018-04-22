@@ -33,6 +33,17 @@
         "cat":"qpypi"
     },
     {
+        "src":"http://kivy.org",
+        "rdate":"2017-06-01",
+        "link":"http://qpypi.qpython.org/simple/",
+        "smodule":"android-u4-qpython",
+        "description":"Access Android Java classes from Python",
+        "title":"Android",
+        "ver":"0.9",
+        "downloads": "5,000+",
+        "cat":"qpypi"
+    },
+    {
         "src":"http://qpypi.qpython.org/pyshop/package/ipython-qpython",
         "rdate":"2018-01-28",
         "link":"http://qpypi.qpython.org/simple/",
