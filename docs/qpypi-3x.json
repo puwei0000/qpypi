@@ -38,8 +38,28 @@
         "smodule":"nose-qpython3",
         "description":"Nose extends the test loading and running features of unittest",
         "title":"Nose (1.3.7)",
-        "ver":"BETA",
-        "downloads": "1,000+",
+        "ver":"ALPHA",
+        "downloads": "100+",
+        "cat":"qpypi"
+    },{
+        "src":"http://qpypi.qpython.org/pyshop/package/numpy-aipy3",
+        "rdate":"2018-07-25",
+        "link":"http://qpypi3.qpython.org/simple",
+        "smodule":"numpy-aipy3",
+        "description":"Fundamental scientific computing package",
+        "title":"Numpy (1.14.1)",
+        "ver":"ALPHA",
+        "downloads": "100+",
+        "cat":"qpypi"
+    },{
+        "src":"http://qpypi.qpython.org/pyshop/package/scipy-aipy3",
+        "rdate":"2018-07-25",
+        "link":"http://qpypi3.qpython.org/simple",
+        "smodule":"aipy-aipy3",
+        "description":"Scientific Library for Python",
+        "title":"Scipy (1.1.0)",
+        "ver":"ALPHA",
+        "downloads": "100+",
         "cat":"qpypi"
     }
 ]
