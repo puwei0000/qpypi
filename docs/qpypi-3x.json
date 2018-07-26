@@ -31,5 +31,15 @@
         "ver":"2.0.0",
         "downloads": "2,000+",
         "cat":"qpypi"
+    },{
+        "src":"http://qpypi.qpython.org/pyshop/package/nose-qpython3",
+        "rdate":"2018-07-25",
+        "link":"http://qpypi3.qpython.org/simple",
+        "smodule":"nose-qpython3",
+        "description":"Nose extends the test loading and running features of unittest",
+        "title":"Nose",
+        "ver":"1.3.7",
+        "downloads": "1,000+",
+        "cat":"qpypi"
     }
 ]
