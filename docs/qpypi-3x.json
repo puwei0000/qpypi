@@ -5,8 +5,8 @@
         "link":"http://qpypi3.qpython.org/simple",
         "smodule":"ipython-qpython",
         "description":"Productive Interactive Computing",
-        "title":"IPython",
-        "ver":"6.2.1",
+        "title":"IPython (6.2.1)",
+        "ver":"PY3: 3.6.4+",
         "downloads": "6,000+",
         "cat":"qpypi"
     },
@@ -16,8 +16,8 @@
         "link":"http://qpypi3.qpython.org/simple",
         "smodule":"mysql-connector-qpython",
         "description":"MySQL driver written in pure Python",
-        "title":"Mysql Connector",
-        "ver":"1.0.8",
+        "title":"Mysql Connector (1.0.8)",
+        "ver":"PY3: 3.2+",
         "downloads": "1,000+",
         "cat":"qpypi"
     },
@@ -27,8 +27,8 @@
         "link":"http://qpypi3.qpython.org/simple",
         "smodule":"pyxmpp2-qpython",
         "description":"PyXMPP2",
-        "title":"PyXMPP2",
-        "ver":"2.0.0",
+        "title":"PyXMPP2 (2.0.0)",
+        "ver":"PY3: 3.6.4+",
         "downloads": "2,000+",
         "cat":"qpypi"
     },{
@@ -37,8 +37,8 @@
         "link":"http://qpypi3.qpython.org/simple",
         "smodule":"nose-qpython3",
         "description":"Nose extends the test loading and running features of unittest",
-        "title":"Nose",
-        "ver":"1.3.7",
+        "title":"Nose (1.3.7)",
+        "ver":"BETA",
         "downloads": "1,000+",
         "cat":"qpypi"
     }
