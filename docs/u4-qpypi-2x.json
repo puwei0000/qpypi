@@ -70,6 +70,7 @@
         "rdate":"2017-06-01",
         "link":"http://qpypi.qpython.org/simple/",
         "smodule":"PIL-u4-qpython",
+        "tmodule":"PIL_u4_qpython-1.1.7-py2.7.egg",
         "description":"Image processing library",
         "title":"PIL",
         "ver":"1.1.7",
