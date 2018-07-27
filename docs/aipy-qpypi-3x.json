@@ -13,7 +13,7 @@
         "src":"http://qpypi.qpython.org/pyshop/package/scipy-aipy3",
         "rdate":"2018-07-25",
         "link":"http://qpypi3.qpython.org/simple",
-        "smodule":"aipy-aipy3",
+        "smodule":"scipy-aipy3",
         "description":"Scientific Library for Python",
         "title":"Scipy (1.1.0)",
         "ver":"ALPHA",
