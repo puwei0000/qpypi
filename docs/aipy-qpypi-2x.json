@@ -4,6 +4,7 @@
         "rdate":"2017-10-01",
         "link":"http://qpypi.qpython.org:11000/simple",
         "smodule":"keras-aipy",
+        "tmodule":"keras_aipy-2.0.8-py2.7.egg",
         "description":"Deep Learning for QPython",
         "title":"Keras",
         "ver":"2.0.8",
