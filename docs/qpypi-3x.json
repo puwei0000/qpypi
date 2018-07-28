@@ -50,7 +50,7 @@
         "rdate":"2018-07-25",
         "link":"http://qpypi3.qpython.org/simple",
         "smodule":"pyzmq-qpython3",
-        "tmodule":"pyzmq-17.1.0-py3.6.egg-info",
+        "tmodule":"pyzmq_qpython3-17.1.0-py3.6.egg-info",
         "description":"PyZMQ is the official Python binding for the ZeroMQ Messaging Library",
         "title":"PyZMQ (17.1.0)",
         "ver":"ALPHA",
