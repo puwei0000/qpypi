@@ -1,13 +1,7 @@
-[{
-"title":"Install Py 3.6.6 from Resource",
-"link":"https://github.com/qpython3/qpython3/releases/download/v1.0/all.tgz",
-"type":"download"
-},{
-"title":"Install Py 3.6.4 from Market",
-"link":"http://qpy36.qpython.org",
-"type":"link"
-},{
-"title":"Switch to Python2",
-"link":"",
-"type":"switch"
-}]
+{
+"title":"Python 3.6.6 for QPython",
+"link":"https://github.com/qpython3/qpython3/releases/download/v1.0/py366.tgz",
+"vercode": "2018080101",
+"vername": "3.6.6",
+"target": "py366.tgz"
+}
