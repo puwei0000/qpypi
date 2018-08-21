@@ -1,2 +1,14 @@
 [
+    {
+        "src":"http://qpypi.qpython.org/pyshop/package/numpy-aipy2",
+        "rdate":"2018-08-21",
+        "link":"http://qpypi.qpython.org/simple",
+        "smodule":"numpy-aipy2",
+        "tmodule":"numpy_aipy2-1.14.3-py2.7.egg-info",
+        "description":"Fundamental scientific computing package",
+        "title":"Numpy (1.14.3)",
+        "ver":"ALPHA",
+        "downloads": "100+",
+        "cat":"qpypi"
+    }
 ]
