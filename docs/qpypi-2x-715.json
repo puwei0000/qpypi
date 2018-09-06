@@ -24,18 +24,6 @@
         "cat":"qpypi"
     },
     {
-        "src":"http://kivy.org",
-        "rdate":"2018-09-04",
-        "link":"http://qpypi.qpython.org/simple/",
-        "smodule":"pyjnius-qpython2",
-        "tmodule":"pyjnius_qpython2-1.1.1-py2.7.egg-info",
-        "description":"Access Java classes from Python",
-        "title":"Pyjnius",
-        "ver":"1.1.1",
-        "downloads": "5,000+",
-        "cat":"qpypi"
-    },
-    {
         "src":"http://qpypi.qpython.org/pyshop/package/mysql-connector-qpython",
         "rdate":"2017-06-01",
         "link":"http://qpypi.qpython.org/simple/",
