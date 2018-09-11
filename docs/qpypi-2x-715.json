@@ -24,7 +24,7 @@
         "cat":"qpypi"
     },
     {
-        "src":"http://qpypi.qpython.org/pyshop/package/qsl4ahelper-qpython2",
+        "src":"http://srinathh.github.io/opensource/fullscreenwrapper/",
         "rdate":"2018-09-11",
         "link":"http://qpypi.qpython.org/simple/",
         "smodule":"qsl4ahelper-qpython2",
