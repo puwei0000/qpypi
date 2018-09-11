@@ -24,6 +24,18 @@
         "cat":"qpypi"
     },
     {
+        "src":"http://qpypi.qpython.org/pyshop/package/qsl4ahelper-qpython2",
+        "rdate":"2018-09-11",
+        "link":"http://qpypi.qpython.org/simple/",
+        "smodule":"qsl4ahelper-qpython2",
+        "tmodule":"qsl4ahelper_qpython2-0.6.1-py2.7.egg-info",
+        "description":"QSL4A APIs Wrapper Library for QPython",
+        "title":"QSL4A APIs Wrapper Library",
+        "ver":"0.5.1",
+        "downloads": "5,00+",
+        "cat":"qpypi"
+    },
+    {
         "src":"http://qpypi.qpython.org/pyshop/package/mysql-connector-qpython",
         "rdate":"2017-06-01",
         "link":"http://qpypi.qpython.org/simple/",
