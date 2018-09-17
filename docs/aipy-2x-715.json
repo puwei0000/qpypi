@@ -10,5 +10,16 @@
         "ver":"ALPHA",
         "downloads": "100+",
         "cat":"qpypi"
+    },{
+        "src":"http://qpypi.qpython.org/pyshop/package/scipy-aipy2",
+        "rdate":"2018-07-25",
+        "link":"http://qpypi.qpython.org/simple",
+        "smodule":"scipy-aipy2",
+        "tmodule":"scipy_aipy2-1.1.0-py2.7.egg-info",
+        "description":"Scientific Library for Python",
+        "title":"Scipy (1.1.0)",
+        "ver":"ALPHA",
+        "downloads": "100+",
+        "cat":"qpypi"
     }
 ]
