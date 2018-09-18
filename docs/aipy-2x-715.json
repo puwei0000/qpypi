@@ -8,7 +8,7 @@
         "description":"Fundamental scientific computing package",
         "title":"Numpy (1.14.3)",
         "ver":"ALPHA",
-        "downloads": "100+",
+        "downloads": "500+",
         "cat":"qpypi"
     },{
         "src":"http://qpypi.qpython.org/pyshop/package/scipy-aipy2",
@@ -18,6 +18,17 @@
         "tmodule":"scipy_aipy2-1.1.0-py2.7.egg-info",
         "description":"Scientific Library for Python",
         "title":"Scipy (1.1.0)",
+        "ver":"ALPHA",
+        "downloads": "500+",
+        "cat":"qpypi"
+    },{
+        "src":"http://qpypi.qpython.org/pyshop/package/pandas-aipy2",
+        "rdate":"2018-9-18",
+        "link":"http://qpypi.qpython.org/simple",
+        "smodule":"pandas-aipy2",
+        "tmodule":"pandas_aipy2-0.23.4-py2.7.egg-info",
+        "description":"Powerful data structures for data analysis etc",
+        "title":"Pandas",
         "ver":"ALPHA",
         "downloads": "100+",
         "cat":"qpypi"
