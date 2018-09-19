@@ -30,7 +30,17 @@
         "description":"Powerful data structures for data analysis etc",
         "title":"Pandas",
         "ver":"ALPHA",
-        "downloads": "100+",
+        "downloads": "300+",
+        "cat":"qpypi"
+    },{
+        "src":"http://qpypi.qpython.org/pyshop/package/matplotlib-aipy2",
+        "rdate":"2018-9-19",
+        "link":"http://qpypi.qpython.org/simple",
+        "smodule":"matplotlib-aipy2",
+        "description":"Matplotlib strives to produce publication quality 2D graphics",
+        "title":"Matplotlib",
+        "ver":"2.2.3",
+        "downloads": "200+",
         "cat":"qpypi"
     }
 ]
