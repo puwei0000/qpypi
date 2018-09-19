@@ -28,7 +28,7 @@
         "smodule":"pandas-aipy2",
         "tmodule":"pandas_aipy2-0.23.4-py2.7.egg-info",
         "description":"Powerful data structures for data analysis etc",
-        "title":"Pandas",
+        "title":"Pandas (0.23.4)",
         "ver":"ALPHA",
         "downloads": "300+",
         "cat":"qpypi"
@@ -37,8 +37,9 @@
         "rdate":"2018-9-19",
         "link":"http://qpypi.qpython.org/simple",
         "smodule":"matplotlib-aipy2",
+        "tmodule":"matplotlib_aipy2-2.2.3-py2.7.egg-info",
         "description":"Matplotlib strives to produce publication quality 2D graphics",
-        "title":"Matplotlib",
+        "title":"Matplotlib (2.2.3)",
         "ver":"2.2.3",
         "downloads": "200+",
         "cat":"qpypi"
