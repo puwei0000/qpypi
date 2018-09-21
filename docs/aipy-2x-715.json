@@ -43,5 +43,16 @@
         "ver":"2.2.3",
         "downloads": "200+",
         "cat":"qpypi"
+    },{
+        "src":"http://qpypi.qpython.org/pyshop/package/theano-aipy",
+        "rdate":"2018-09-21",
+        "link":"http://qpypi.qpython.org/simple",
+        "smodule":"theano-aipy2",
+        "tmodule":"theano_aipy2-1.0.3-py2.7.egg-info",
+        "description":"Optimizing compiler for evaluating mathematical expressions",
+        "title":"Theano (1.0.3)",
+        "ver":"ALPHA",
+        "downloads": "200+",
+        "cat":"qpypi"
     }
 ]
