@@ -54,5 +54,16 @@
         "ver":"ALPHA",
         "downloads": "200+",
         "cat":"qpypi"
+    },{
+        "src":"http://qpypi.qpython.org/pyshop/package/keras-aipy2",
+        "rdate":"2018-09-21",
+        "link":"http://qpypi.qpython.org/simple",
+        "smodule":"keras-aipy2",
+        "tmodule":"keras_aipy2-2.2.2-py2.7.egg-info",
+        "description":"Deep Learning for QPython",
+        "title":"Keras (2.2.2)",
+        "ver":"ALPHA",
+        "downloads": "100+",
+        "cat":"qpypi"
     }
 ]
