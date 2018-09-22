@@ -57,5 +57,16 @@
         "ver":"BETA",
         "downloads": "500+",
         "cat":"qpypi"
+    },{
+        "src":"http://qpypi.qpython.org/pyshop/package/twisted-qpython2",
+        "rdate":"2018-09-22",
+        "link":"http://qpypi.qpython.org/simple",
+        "smodule":"twisted-qpython2",
+        "tmodule":"twisted_qpython2-18.7.0-py2.7.egg-info",
+        "description":"An asynchronous networking framework",
+        "title":"Twisted (18.7.0)",
+        "ver":"BETA",
+        "downloads": "500+",
+        "cat":"qpypi"
     }
 ]
