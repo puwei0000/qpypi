@@ -46,5 +46,16 @@
         "ver":"1.15.2",
         "downloads": "1,000+",
         "cat":"qpypi"
+    },{
+        "src":"http://qpypi.qpython.org/pyshop/package/pillow-qpython2",
+        "rdate":"2018-09-21",
+        "link":"http://qpypi.qpython.org/simple",
+        "smodule":"pillow-qpython2",
+        "tmodule":"pillow_qpython2-5.2.0-py2.7.egg-info",
+        "description":"Image processing library",
+        "title":"Pillow (5.2.0)",
+        "ver":"BETA",
+        "downloads": "500+",
+        "cat":"qpypi"
     }
 ]
