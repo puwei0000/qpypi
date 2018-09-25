@@ -34,18 +34,6 @@
         "ver":"0.5.1",
         "downloads": "25,00+",
         "cat":"qpypi"
-    },
-    {
-        "src":"http://qpypi.qpython.org/pyshop/package/mysql-connector-qpython",
-        "rdate":"2017-06-01",
-        "link":"http://qpypi.qpython.org/simple/",
-        "smodule":"mysql-connector-qpython",
-        "tmodule":"mysql_connector_qpython-1.0.8-py2.7.egg-info",
-        "description":"MySQL driver written in pure Python",
-        "title":"Mysql Connector",
-        "ver":"1.15.2",
-        "downloads": "1,000+",
-        "cat":"qpypi"
     },{
         "src":"http://qpypi.qpython.org/pyshop/package/pillow-qpython2",
         "rdate":"2018-09-21",
