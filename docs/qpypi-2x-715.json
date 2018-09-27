@@ -1,17 +1,5 @@
 [
     {
-        "src":"https://www.djangoproject.com/",
-        "rdate":"2018-01-30",
-        "link":"http://qpypi.qpython.org/simple/",
-        "smodule":"django-qpython",
-        "tmodule":"django_qpython-1.11.9-py2.7.egg-info",
-        "description":"Django makes it easier to build better Web apps",
-        "title":"Django",
-        "ver":"1.11.9",
-        "downloads": "10,000+",
-        "cat":"qpypi"
-    },
-    {
         "src":"http://qpypi.qpython.org/pyshop/package/tornado-qpython",
         "rdate":"2017-06-01",
         "link":"http://qpypi.qpython.org/simple/",
