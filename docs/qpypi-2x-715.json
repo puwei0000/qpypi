@@ -60,7 +60,7 @@
         "rdate":"2018-09-27",
         "link":"http://qpypi.qpython.org/simple",
         "smodule":"scrapy-qpython2",
-        "tmodule":"scrapy-1.5.1-py2.7.egg-info",
+        "tmodule":"scrapy_qpython2-1.5.1-py2.7.egg-info",
         "description":"A Fast and Powerful Scraping and Web Crawling Framework",
         "title":"Scrapy (1.5.1)",
         "ver":"BETA",
