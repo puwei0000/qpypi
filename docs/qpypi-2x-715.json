@@ -66,5 +66,16 @@
         "ver":"BETA",
         "downloads": "100+",
         "cat":"qpypi"
+    },{
+        "src":"http://qpypi.qpython.org/pyshop/package/dulwich-qpython2",
+        "rdate":"2018-09-29",
+        "link":"http://qpypi.qpython.org/simple",
+        "smodule":"dulwich-qpython2",
+        "tmodule":"dulwich_qpython2-0.19.6-py2.7.egg-info",
+        "description":"A Python GIT client and library ",
+        "title":"Dulwich (0.19.6)",
+        "ver":"BETA",
+        "downloads": "100+",
+        "cat":"qpypi"
     }
 ]
