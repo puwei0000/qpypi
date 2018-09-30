@@ -63,6 +63,17 @@
         "ver":"Deep Learning for QPython",
         "title":"Keras (2.2.2)",
         "description":"ALPHA",
+        "downloads": "200+",
+        "cat":"qpypi"
+    },{
+        "src":"http://qpypi.qpython.org/pyshop/package/scikit-learn-aipy2",
+        "rdate":"2018-9-30",
+        "link":"http://qpypi.qpython.org/simple",
+        "smodule":"scikit-learn-aipy2",
+        "tmodule":"scikit_learn_aipy2-0.20.0-py2.7.egg-info",
+        "ver":"Scikit-learn is a Python module for machine learning",
+        "title":"Scikit-learn",
+        "description":"BETA",
         "downloads": "100+",
         "cat":"qpypi"
     }
