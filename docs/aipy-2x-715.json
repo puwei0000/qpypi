@@ -60,7 +60,7 @@
         "link":"http://qpypi.qpython.org/simple",
         "smodule":"keras-aipy2",
         "tmodule":"keras_aipy2-2.2.2-py2.7.egg-info",
-        "ver":"Deep Learning for QPython",
+        "ver":"The Python Deep Learning library",
         "title":"Keras (2.2.2)",
         "description":"ALPHA",
         "downloads": "200+",
