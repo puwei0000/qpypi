@@ -5,9 +5,9 @@
         "link":"http://qpypi.qpython.org/simple",
         "smodule":"numpy-aipy2",
         "tmodule":"numpy_aipy2-1.14.3-py2.7.egg-info",
-        "description":"Fundamental scientific computing package",
+        "ver":"Fundamental scientific computing package",
         "title":"Numpy (1.14.3)",
-        "ver":"ALPHA",
+        "description":"ALPHA",
         "downloads": "500+",
         "cat":"qpypi"
     },{
@@ -16,9 +16,9 @@
         "link":"http://qpypi.qpython.org/simple",
         "smodule":"scipy-aipy2",
         "tmodule":"scipy_aipy2-1.1.0-py2.7.egg-info",
-        "description":"Scientific Library for Python",
+        "ver":"Scientific Library for Python",
         "title":"Scipy (1.1.0)",
-        "ver":"ALPHA",
+        "description":"ALPHA",
         "downloads": "500+",
         "cat":"qpypi"
     },{
@@ -27,9 +27,9 @@
         "link":"http://qpypi.qpython.org/simple",
         "smodule":"pandas-aipy2",
         "tmodule":"pandas_aipy2-0.23.4-py2.7.egg-info",
-        "description":"Powerful data structures for data analysis etc",
+        "ver":"Powerful data structures for data analysis etc",
         "title":"Pandas (0.23.4)",
-        "ver":"ALPHA",
+        "description":"ALPHA",
         "downloads": "300+",
         "cat":"qpypi"
     },{
@@ -38,9 +38,9 @@
         "link":"http://qpypi.qpython.org/simple",
         "smodule":"matplotlib-aipy2",
         "tmodule":"matplotlib_aipy2-2.2.3-py2.7.egg-info",
-        "description":"Matplotlib strives to produce publication quality 2D graphics",
+        "ver":"Matplotlib strives to produce publication quality 2D graphics",
         "title":"Matplotlib (2.2.3)",
-        "ver":"2.2.3",
+        "description":"2.2.3",
         "downloads": "200+",
         "cat":"qpypi"
     },{
@@ -49,9 +49,9 @@
         "link":"http://qpypi.qpython.org/simple",
         "smodule":"theano-aipy2",
         "tmodule":"theano_aipy2-1.0.3-py2.7.egg-info",
-        "description":"Optimizing compiler for evaluating mathematical expressions",
+        "ver":"Optimizing compiler for evaluating mathematical expressions",
         "title":"Theano (1.0.3)",
-        "ver":"ALPHA",
+        "description":"ALPHA",
         "downloads": "200+",
         "cat":"qpypi"
     },{
@@ -60,9 +60,9 @@
         "link":"http://qpypi.qpython.org/simple",
         "smodule":"keras-aipy2",
         "tmodule":"keras_aipy2-2.2.2-py2.7.egg-info",
-        "description":"Deep Learning for QPython",
+        "ver":"Deep Learning for QPython",
         "title":"Keras (2.2.2)",
-        "ver":"ALPHA",
+        "description":"ALPHA",
         "downloads": "100+",
         "cat":"qpypi"
     }

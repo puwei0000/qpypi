@@ -5,9 +5,9 @@
         "link":"http://qpypi3.qpython.org/simple",
         "smodule":"numpy-aipy3",
         "tmodule":"numpy_aipy3-1.14.1-py3.6.egg-info",
-        "description":"Fundamental scientific computing package",
+        "ver":"Fundamental scientific computing package",
         "title":"Numpy (1.14.1)",
-        "ver":"ALPHA",
+        "description":"ALPHA",
         "downloads": "100+",
         "cat":"qpypi"
     },{
@@ -16,9 +16,9 @@
         "link":"http://qpypi3.qpython.org/simple",
         "smodule":"scipy-aipy3",
         "tmodule":"scipy_aipy3-1.1.0-py3.6.egg-info",
-        "description":"Scientific Library for Python",
+        "ver":"Scientific Library for Python",
         "title":"Scipy (1.1.0)",
-        "ver":"ALPHA",
+        "description":"ALPHA",
         "downloads": "100+",
         "cat":"qpypi"
     }

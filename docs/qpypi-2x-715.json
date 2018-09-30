@@ -5,9 +5,9 @@
         "link":"http://qpypi.qpython.org/simple/",
         "smodule":"tornado-qpython",
         "tmodule":"tornado_qpython-4.5.1-py2.7.egg-info",
-        "description":"An asynchronous networking web library",
+        "ver":"An asynchronous networking web library",
         "title":"Tornado",
-        "ver":"4.5.1",
+        "description":"4.5.1",
         "downloads": "10,000+",
         "cat":"qpypi"
     },
@@ -17,9 +17,9 @@
         "link":"http://qpypi.qpython.org/simple/",
         "smodule":"qsl4ahelper-qpython2",
         "tmodule":"qsl4ahelper_qpython2-0.6.1-py2.7.egg-info",
-        "description":"QSL4A APIs Wrapper Library for QPython",
+        "ver":"Fullscreen SL4A App APIs wrapper library",
         "title":"QSL4A Helper",
-        "ver":"0.5.1",
+        "description":"0.5.1",
         "downloads": "25,00+",
         "cat":"qpypi"
     },{
@@ -28,9 +28,9 @@
         "link":"http://qpypi.qpython.org/simple",
         "smodule":"pillow-qpython2",
         "tmodule":"pillow_qpython2-5.2.0-py2.7.egg-info",
-        "description":"Image processing library",
+        "ver":"Image processing library",
         "title":"Pillow (5.2.0)",
-        "ver":"BETA",
+        "description":"BETA",
         "downloads": "500+",
         "cat":"qpypi"
     },{
@@ -39,9 +39,9 @@
         "link":"http://qpypi.qpython.org/simple",
         "smodule":"twisted-qpython2",
         "tmodule":"twisted_qpython2-18.7.0-py2.7.egg-info",
-        "description":"An asynchronous networking framework",
+        "ver":"An asynchronous networking framework",
         "title":"Twisted (18.7.0)",
-        "ver":"BETA",
+        "description":"BETA",
         "downloads": "500+",
         "cat":"qpypi"
     },{
@@ -50,9 +50,9 @@
         "link":"http://qpypi.qpython.org/simple",
         "smodule":"lxml-qpython2",
         "tmodule":"lxml_qpython2-4.2.5-py2.7.egg-info",
-        "description":"A Pythonic binding for the libxml2 and libxslt",
+        "ver":"A Pythonic binding for the libxml2 and libxslt",
         "title":"lxml (4.2.5)",
-        "ver":"BETA",
+        "description":"BETA",
         "downloads": "300+",
         "cat":"qpypi"
     },{
@@ -61,9 +61,9 @@
         "link":"http://qpypi.qpython.org/simple",
         "smodule":"scrapy-qpython2",
         "tmodule":"scrapy_qpython2-1.5.1-py2.7.egg-info",
-        "description":"A Fast and Powerful Scraping and Web Crawling Framework",
+        "ver":"A Fast and Powerful Scraping and Web Crawling Framework",
         "title":"Scrapy (1.5.1)",
-        "ver":"BETA",
+        "description":"BETA",
         "downloads": "100+",
         "cat":"qpypi"
     },{
@@ -72,9 +72,9 @@
         "link":"http://qpypi.qpython.org/simple",
         "smodule":"dulwich-qpython2",
         "tmodule":"dulwich_qpython2-0.19.6-py2.7.egg-info",
-        "description":"A Python GIT client and library ",
+        "ver":"A Python GIT client and library ",
         "title":"Dulwich (0.19.6)",
-        "ver":"BETA",
+        "description":"BETA",
         "downloads": "100+",
         "cat":"qpypi"
     }
