@@ -17,7 +17,7 @@
         "link":"http://qpypi.qpython.org/simple/",
         "smodule":"qsl4ahelper-qpython2",
         "tmodule":"qsl4ahelper_qpython2-0.6.1-py2.7.egg-info",
-        "ver":"Fullscreen SL4A App APIs wrapper library",
+        "ver":"SL4A App APIs wrapper library (Like Fullscreenwrapper2 etc)",
         "title":"QSL4A Helper",
         "description":"0.5.1",
         "downloads": "25,00+",
