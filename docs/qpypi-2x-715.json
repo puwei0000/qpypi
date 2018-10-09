@@ -82,7 +82,7 @@
         "rdate":"2018-10-8",
         "link":"http://qpypi.qpython.org/simple",
         "smodule":"pyOpenSSL-qpython2",
-        "tmodule":"pyOpenSSL_qpython2-0.19.6-py2.7.egg-info",
+        "tmodule":"pyOpenSSL_qpython2-18.0.0-py2.7.egg-info",
         "ver":"A Python wrapper around the OpenSSL library",
         "title":"pyOpenSSL (18.0.0)",
         "description":"BETA",
