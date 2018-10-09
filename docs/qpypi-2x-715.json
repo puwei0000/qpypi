@@ -84,7 +84,7 @@
         "smodule":"pyOpenSSL-qpython2",
         "tmodule":"pyOpenSSL_qpython2-0.19.6-py2.7.egg-info",
         "ver":"A Python wrapper around the OpenSSL library",
-        "title":"Dulwich (18.0.0)",
+        "title":"pyOpenSSL (18.0.0)",
         "description":"BETA",
         "downloads": "100+",
         "cat":"qpypi"
