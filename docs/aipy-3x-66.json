@@ -65,5 +65,16 @@
         "description":"ALPHA",
         "downloads": "200+",
         "cat":"qpypi"
+    }, {
+        "src":"http://qpypi.qpython.org/pyshop/package/scikit-learn-aipy3",
+        "rdate":"2019-5-9",
+        "link":"http://qpypi3.qpython.org/simple",
+        "smodule":"scikit-learn-aipy3",
+        "tmodule":"scikit_learn_aipy3-0.20.0-py3.6.egg-info",
+        "ver":"Scikit-learn is a Python module for machine learning",
+        "title":"Scikit-learn",
+        "description":"BETA",
+        "downloads": "100+",
+        "cat":"qpypi"
     }
 ]
