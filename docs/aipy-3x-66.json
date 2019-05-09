@@ -35,12 +35,34 @@
     }, {
         "src":"http://qpypi.qpython.org/pyshop/package/matplotlib-aipy3",
         "rdate":"2019-5-8",
-        "link":"http://qpypi.qpython.org/simple",
+        "link":"http://qpypi3.qpython.org/simple",
         "smodule":"matplotlib-aipy3",
         "tmodule":"matplotlib_aipy3-2.2.3-py3.6.egg-info",
         "ver":"Matplotlib strives to produce publication quality 2D graphics",
         "title":"Matplotlib (2.2.3)",
         "description":"2.2.3",
+        "downloads": "200+",
+        "cat":"qpypi"
+    }, {
+        "src":"http://qpypi.qpython.org/pyshop/package/theano-aipy",
+        "rdate":"2018-09-21",
+        "link":"http://qpypi3.qpython.org/simple",
+        "smodule":"theano-aipy3",
+        "tmodule":"theano_aipy3-1.0.3-py3.6.egg-info",
+        "ver":"Optimizing compiler for evaluating mathematical expressions",
+        "title":"Theano (1.0.3)",
+        "description":"ALPHA",
+        "downloads": "200+",
+        "cat":"qpypi"
+    }, {
+        "src":"http://qpypi.qpython.org/pyshop/package/keras-aipy2",
+        "rdate":"2019-05-09",
+        "link":"http://qpypi3.qpython.org/simple",
+        "smodule":"keras-aipy3",
+        "tmodule":"keras_aipy3-2.2.2-py3.6.egg-info",
+        "ver":"The Python Deep Learning library",
+        "title":"Keras (2.2.2)",
+        "description":"ALPHA",
         "downloads": "200+",
         "cat":"qpypi"
     }
