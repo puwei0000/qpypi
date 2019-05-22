@@ -1,0 +1,39 @@
+{% extends "/pyshop/layout.html" %}
+
+{% block maintitle %}{% endblock %}
+{% block subnav %}{% endblock %}
+
+{% block nav_bar %}{% endblock %}
+{% block nav_third %}{% endblock %}
+
+{% block toolbar %}
+{% endblock %}
+
+{% block main %}
+
+<div class='container' style='padding-top:20px'>
+  <div class="jumbotron" style='background:white;'>
+    <h3>Install libraries which were cross-compiled by QPython team</h3>
+    <p class="lead">We have cross-compiled many libraries for QPython, and you can send the request through https://github.com/qpython-android/qpython.org/issues</p>
+    <p><a href='http://qpyp' class="btn btn-lg btn-success" role="button">Pakcages list</a></p>
+  </div>
+
+
+
+  <div class="jumbotron">
+    <h3>Install with QPYPI</h3>
+    <p class="lead">You can install or upgrade Python packages for android platform through qpython's qpypi.</p>
+    <p><a href='/search/' class="btn btn-lg btn-success" href="#" role="button">QPYPI</a></p>
+  </div>
+
+  <div class="jumbotron" style='background:white;'>
+    <h3>Install with official pypi</h3>
+    <p class="lead">Besides qpypi, you can install many pure python packages from python's pypi through pip console manually</p>
+    <p><a href='javascript:milib.pipConsole()' class="btn btn-lg btn-success" role="button">Pip console</a></p>
+  </div>
+
+
+</div>
+
+
+{% endblock %}

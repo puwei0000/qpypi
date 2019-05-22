@@ -175,3 +175,13 @@ class Purge(RedirectView):
             return self.redirect()
 
         return {self.model.__tablename__: model}
+
+
+#
+class Guide(View):  
+    def render(self):
+        return {}
+
+class Search(List):
+    pass
+

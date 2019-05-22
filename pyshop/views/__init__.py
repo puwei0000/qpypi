@@ -9,4 +9,4 @@ class Index(RedirectView):
     """
     PyShop index view.
     """
-    redirect_route = u'list_package'
+    redirect_route = u'guide'

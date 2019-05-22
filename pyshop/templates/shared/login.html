@@ -1,5 +1,9 @@
 {% extends "/shared/layout.html" %}
 
+{% block nav_second %}{% endblock %}
+
+{% block nav_bar %}{% endblock %}
+
 {% block header %}
     <link href="{{ static_url('pyshop:static/signin.css') }}" rel="stylesheet">
 {% endblock %}
@@ -10,7 +14,7 @@
 {% block main %}
 
 <form  class="form-signin" role="form" action="" method="post">
-        <h2 class="form-signin-heading">Please sign in</h2>
+        <h3 class="form-signin-heading">QPYPI sign in</h3>
     {% if errors %}
         {%for errormessage in errors %}
             <div class="alert alert-danger"> {{ errormessage }} </div>

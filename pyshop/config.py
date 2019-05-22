@@ -69,7 +69,8 @@ def includeme(config):
     config.add_route(u'index', u'/')
     config.add_view(u'pyshop.views.Index',
                     route_name=u'index',
-                    permission=u'user_view')
+    #                permission=u'user_view'
+                    )
 
     # Archive downloads
     config.add_route(u'show_external_release_file',
@@ -138,7 +139,8 @@ def includeme(config):
     config.add_view(u'pyshop.views.package.List',
                     route_name='list_package_page',
                     renderer=u'pyshop/package/list.html',
-                    permission=u'user_view')
+                    #permission=u'user_view'
+                    )
 
     config.add_route(u'show_package',
                      u'/pyshop/package/{package_name}')
@@ -149,12 +151,14 @@ def includeme(config):
     config.add_view(u'pyshop.views.package.Show',
                     route_name=u'show_package',
                     renderer=u'pyshop/package/show.html',
-                    permission=u'user_view')
+                    #permission=u'user_view'
+                    )
 
     config.add_view(u'pyshop.views.package.Show',
                     route_name=u'show_package_version',
                     renderer=u'pyshop/package/show.html',
-                    permission=u'user_view')
+                    #permission=u'user_view'
+                    )
 
     # Admin  view
     config.add_route(u'list_account', u'/pyshop/account')
@@ -212,3 +216,15 @@ def includeme(config):
     config.add_view('pyshop.views.credentials.Login',
                     renderer=u'shared/login.html',
                     context=u'pyramid.exceptions.Forbidden')
+
+                    #
+
+    config.add_route(u'guide', u'/guide/', request_method=u'GET')
+    config.add_view(u'pyshop.views.package.Guide',
+                    route_name=u'guide',
+                    renderer=u'pyshop/package/guide.html')
+
+    config.add_route(u'search_package', u'/search/', request_method=u'GET')
+    config.add_view(u'pyshop.views.package.Search',
+                    route_name=u'search_package',
+                    renderer=u'pyshop/package/search.html')

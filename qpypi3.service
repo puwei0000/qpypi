@@ -1,0 +1,11 @@
+[Unit]
+Description=Pyshop
+After=multi-user.target
+
+[Service]
+WorkingDirectory=/home/ubuntu/qpython/qpypi3
+ExecStart=/home/ubuntu/qpython/env/bin/python /home/ubuntu/qpython/env/bin/pserve qpypi3.ini
+ExecStop=
+
+[Install]
+WantedBy=multi-user.target

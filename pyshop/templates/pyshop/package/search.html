@@ -1,0 +1,81 @@
+{% extends "/pyshop/layout.html" %}
+
+{% block nav_main %}
+    <a class="navbar-brand" href="{{route_url('index')}}">Packages from QPYPI <span class="badge">{{package_count}}</span></a>
+
+    <!--div style='float:right;padding:10px'><button class='btn' style='color:white' onclick="milib.pipConsole()">PIP console</button></div-->
+{% endblock %}
+
+{% block nav_bar %}{% endblock %}
+{% block nav_second %}{% endblock %}
+{% block nav_third %}{% endblock %}
+
+{% block header %}
+    <script  type="text/javascript" src="{{ static_url('pyshop:static/js/bootstrap3-typeahead.js') }}"></script>
+{% endblock %}
+
+
+{% block subnav %}
+{% endblock %}
+
+
+{% block main %}
+
+<form class="form-inline" role="form" method="GET">
+  <div class="input-group" style='display:none'>
+    <input type="text" id="keyword" 
+        data-provide="typeahead" data-items="4"
+        name="keyword.added" value="{{keyword}}"
+        placeholder="Keyword"
+        class="form-control">
+    <span class="input-group-btn">
+      <button class="btn btn-default" id="submitter" name="form.submitted" type="submit">Search</button>
+    </span>
+  </div><!-- /input-group -->
+
+</form>
+
+<br />
+
+<table class="table">
+<thead>
+    <tr>
+        <td><strong>{% trans %} Package {% endtrans %}</strong></td>
+        <!--td><strong>{% trans %} last {% endtrans %}</strong></td-->
+        <!--td><strong>{% trans %} source {% endtrans %}</strong></td-->
+        <td align='right'><strong>{% trans %} downloads {% endtrans %}</strong></td>
+    </tr>
+</thead>
+<tbody>
+
+    {% for pkg in packages %}
+        <tr>
+            <td>
+                <a href="{{ route_url('show_package', package_name=pkg.name) }}">
+                    {{ pkg.name }}
+                </a>
+
+                    <br />
+                    {{ pkg.versions[0] }}
+            </td>
+            <!--td class="num"></td-->
+            <!--td class="num">
+                {% if pkg.local %}
+                    {% trans %} QPY {% endtrans %}
+                {% else %}
+                    {% trans %} mirror {% endtrans %}
+                {% endif %}
+            </td-->
+            <td align='right' class="num">
+
+                <a href="{{ route_url('show_package', package_name=pkg.name) }}">
+{{ pkg.downloads }}
+                </a>
+
+            </td>
+        </tr>
+    {% endfor %}
+</tbody>
+</table>
+
+{% endblock %}
