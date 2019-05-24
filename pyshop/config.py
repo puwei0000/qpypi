@@ -79,7 +79,8 @@ def includeme(config):
     config.add_view(u'pyshop.views.repository.show_external_release_file',
                     route_name=u'show_external_release_file',
                     renderer=u'repository',
-                    permission=u'download_releasefile')
+                    #permission=u'download_releasefile'
+                    )
 
     config.add_route(u'show_release_file',
                      u'/repository/{file_id}/{filename:.*}',
@@ -87,7 +88,8 @@ def includeme(config):
     config.add_view(u'pyshop.views.repository.show_release_file',
                     route_name=u'show_release_file',
                     renderer=u'repository',
-                    permission=u'download_releasefile')
+                    #permission=u'download_releasefile'
+                    )
 
     # Simple views used by pip
     config.add_route(u'list_simple', u'/simple/', request_method=u'GET')
@@ -95,13 +97,15 @@ def includeme(config):
     config.add_view(u'pyshop.views.simple.List',
                     route_name=u'list_simple',
                     renderer=u'pyshop/simple/list.html',
-                    permission=u'download_releasefile')
+                    #permission=u'download_releasefile'
+                    )
 
     config.add_route(u'show_simple', u'/simple/{package_name}/')
     config.add_view(u'pyshop.views.simple.Show',
                     route_name=u'show_simple',
                     renderer=u'pyshop/simple/show.html',
-                    permission=u'download_releasefile')
+                    #permission=u'download_releasefile'
+                    )
 
     try:
         config.add_notfound_view(notfound, append_slash=True)

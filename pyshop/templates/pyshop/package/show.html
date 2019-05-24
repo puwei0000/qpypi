@@ -1,7 +1,7 @@
 {% extends "/pyshop/layout.html" %}
 
 {% block nav_main %}
-    <a class="navbar-brand" href='#'>{{package.name}} {{release.version}}</a>
+    <a class="navbar-brand" href='javascript:history.back()'><< </a> <a class="navbar-brand" href='#'>{{package.name}} {{release.version}}</a>
 
     <!--div style='float:right;padding:10px'><button class='btn' style='color:white' onclick="milib.libMan()">Manage installed</button></div-->
 {% endblock %}
@@ -20,7 +20,7 @@
             <a class="btn btn-success btn-lg active" role="button"
                href="javascript:milib.pipInstall('{{ package.name }}','http://pypi3.qpython.org/simple')">
               <span class="glyphicon glyphicon-download-alt"></span>
-              Install ({{f.filename}})</a></p>
+              Install With QPYPI</a></p>
         {% endif %}
     {% endfor %}
     <p>Other Version: 

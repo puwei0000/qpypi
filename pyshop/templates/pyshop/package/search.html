@@ -1,7 +1,7 @@
 {% extends "/pyshop/layout.html" %}
 
 {% block nav_main %}
-    <a class="navbar-brand" href="{{route_url('index')}}">Packages from QPYPI <span class="badge">{{package_count}}</span></a>
+    <a class="navbar-brand" href='javascript:history.back()'><< </a><a class="navbar-brand" href="{{route_url('index')}}">Packages from QPYPI <span class="badge">{{package_count}}</span></a>
 
     <!--div style='float:right;padding:10px'><button class='btn' style='color:white' onclick="milib.pipConsole()">PIP console</button></div-->
 {% endblock %}
