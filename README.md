@@ -1,11 +1,3 @@
 # QPYPI
-This is the QPython's QPYPI, It contains programs, libraries
 
-
-Programs
-===========
-
-
-Libraries
-===========
-
+This is the QPython's QPYPI project, which serves packages for QPython users.
